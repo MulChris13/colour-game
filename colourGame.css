@@ -37,7 +37,15 @@ h1 {
 
 #message {
     display: inline-block;
-    width: 20%;
+    width: 25%;
+    text-transform: uppercase;
+    font-family: "Roboto";
+    font-size: inherit;
+    font-weight: 700;
+}
+
+#reset {
+    margin-left: 11%;
 }
 
 #stripe {
@@ -45,6 +53,15 @@ h1 {
     height: 30px;
     text-align: center;
     color: black;
+}
+
+#scoreCard {
+    display: inline-block;
+    font-family: "Roboto";
+    text-transform: uppercase;
+    font-size: inherit;
+    font-weight: 700;
+    margin-left: 5%;
 }
 
 .selected {
@@ -75,4 +92,8 @@ button {
 button:hover {
     color: white;
     background: steelblue;
+}
+
+.hide {
+    display: none;
 }
