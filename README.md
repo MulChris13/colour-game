@@ -2,7 +2,7 @@
 
 Colour Game is an RGB colour guessing game.
 
-## Usage
+## How To Run
 
 Simply visit the website in the project description!
 
