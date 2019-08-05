@@ -6,7 +6,7 @@ Colour Game is an RGB colour guessing game.
 
 Simply visit the website in the project description!
 
-## Playing the game
+## Playing The Game
 
 You will be presented with an RGB formatted colour at the top of the screen.
 You must guess which coloured square in the grid corresponds to the stated RGB colour!
